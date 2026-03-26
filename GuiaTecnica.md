@@ -132,8 +132,6 @@ graph TD
 
 ## **6. CÓMO PROBAR EL AGENTE (CASOS DE ÉXITO)**
 
-Para validar la operatividad total el **23 de marzo**, siga estos protocolos:
-
 ### **Escenario A: Sincronización e Interoperabilidad**
 *   **Acción:** Subir un archivo Excel de cronograma de proyecto.
 *   **Validación:** El agente debe confirmar la creación de carpetas en **Google Drive** (Fases/Etapas) y la actualización del tablero Kanban en **Notion**.
