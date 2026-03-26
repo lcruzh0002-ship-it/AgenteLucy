@@ -169,9 +169,11 @@ graph TD
 <img width="1554" height="502" alt="image" src="https://github.com/user-attachments/assets/c2fba67c-cb2f-4aaa-8b60-a4e474b15903" />
 
 Creacón de carpeta en drive - Antes
-<img width="1571" height="420" alt="image" src="https://github.com/user-attachments/assets/0f8d716f-9f6e-4900-b734-5bed67fabf66" />
-Creacón de carpeta en drive - Despues
-<img width="604" height="351" alt="image" src="https://github.com/user-attachments/assets/6b270f62-d242-4d82-be22-2d96f346b1ff" />
-<img width="1604" height="662" alt="image" src="https://github.com/user-attachments/assets/ed174582-2552-4c29-ba4c-ff93c57fd7b5" />
 
+<img width="1571" height="420" alt="image" src="https://github.com/user-attachments/assets/0f8d716f-9f6e-4900-b734-5bed67fabf66" />
+
+Creacón de carpeta en drive - Despues
+
+<img width="1604" height="662" alt="image" src="https://github.com/user-attachments/assets/ed174582-2552-4c29-ba4c-ff93c57fd7b5" />
+<img width="604" height="351" alt="image" src="https://github.com/user-attachments/assets/6b270f62-d242-4d82-be22-2d96f346b1ff" />
 
