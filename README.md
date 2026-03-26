@@ -27,7 +27,7 @@ El presente documento detalla una arquitectura de grado industrial desplegada en
 *   **Interoperabilidad Total:** Sincronización bidireccional entre ecosistemas Cloud y bases de datos relacionales.
 
 
-# **2. El Gráfico: "El Viaje del Dato Oficial"
+# 2. El Gráfico: "El Viaje del Dato Oficial"
 
 1.  **La Consola (El Control):** "Aquí el usuario no solo chatea, sino que **gobierna**. Usa la *Matriz de Madurez* para decir qué archivos son borradores y cuáles son Verdad Oficial."
 2.  **El Guardián (La Seguridad):** "Antes de que la IA se mueva, nuestra API de Seguridad revisa una lista en la nube. Si no tienes permiso, el sistema no te muestra ni una palabra."
