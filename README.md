@@ -26,8 +26,6 @@ El presente documento detalla una arquitectura de grado industrial desplegada en
 *   **Búsqueda Semántica de Alto Rendimiento:** Indexación vectorial mediante algoritmos **HNSW** en Elasticsearch para recuperaciones instantáneas.
 *   **Interoperabilidad Total:** Sincronización bidireccional entre ecosistemas Cloud y bases de datos relacionales.
 
----
-
 
 # **2. El Gráfico: "El Viaje del Dato Oficial"
 
