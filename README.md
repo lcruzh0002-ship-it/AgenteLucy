@@ -29,8 +29,13 @@ El presente documento detalla una arquitectura de grado industrial desplegada en
 ---
 
 
-
 # **2. El Gráfico: "El Viaje del Dato Oficial"
+
+1.  **La Consola (El Control):** "Aquí el usuario no solo chatea, sino que **gobierna**. Usa la *Matriz de Madurez* para decir qué archivos son borradores y cuáles son Verdad Oficial."
+2.  **El Guardián (La Seguridad):** "Antes de que la IA se mueva, nuestra API de Seguridad revisa una lista en la nube. Si no tienes permiso, el sistema no te muestra ni una palabra."
+3.  **El Cerebro (La Inteligencia):** "Usamos un Agente que **razona**. Si le pides algo, él decide si debe ir a buscar en los documentos o actualizar el estado en Notion. Además, es **resiliente**: si falla una IA, usa otra de respaldo automáticamente."
+4.  **Las Manos (La Orquestación):** "Este es el motor que hace el trabajo pesado. Conecta Google Drive, Notion y las bases de datos para que todo esté sincronizado en segundos, sin que el humano tenga que copiar y pegar nada."
+5.  **La Memoria (La Verdad):** "Aquí es donde Portfolio-CORE brilla. Nuestra IA no inventa. Solo busca en la memoria de **documentos certificados**. Si el documento no pasó por la Matriz de Madurez, la IA simplemente no lo conoce."
 
 
 ```mermaid
@@ -71,19 +76,6 @@ graph TD
     %% Leyenda
     linkStyle default stroke:#555,stroke-width:1px;
 ```
-
----
-
-### **2.1 Guía de Explicación (Para que todos entiendan)
-
-Cuando muestres este gráfico el **23 de marzo**, explícalo siguiendo estos **5 pasos sencillos**:
-
-1.  **La Consola (El Control):** "Aquí el usuario no solo chatea, sino que **gobierna**. Usa la *Matriz de Madurez* para decir qué archivos son borradores y cuáles son Verdad Oficial."
-2.  **El Guardián (La Seguridad):** "Antes de que la IA se mueva, nuestra API de Seguridad revisa una lista en la nube. Si no tienes permiso, el sistema no te muestra ni una palabra."
-3.  **El Cerebro (La Inteligencia):** "Usamos un Agente que **razona**. Si le pides algo, él decide si debe ir a buscar en los documentos o actualizar el estado en Notion. Además, es **resiliente**: si falla una IA, usa otra de respaldo automáticamente."
-4.  **Las Manos (La Orquestación):** "Este es el motor que hace el trabajo pesado. Conecta Google Drive, Notion y las bases de datos para que todo esté sincronizado en segundos, sin que el humano tenga que copiar y pegar nada."
-5.  **La Memoria (La Verdad):** "Aquí es donde Portfolio-CORE brilla. Nuestra IA no inventa. Solo busca en la memoria de **documentos certificados**. Si el documento no pasó por la Matriz de Madurez, la IA simplemente no lo conoce."
-
 
 
 
