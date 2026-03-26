@@ -152,6 +152,8 @@ graph TD
 **Portfolio-CORE** representa la convergencia perfecta entre la **Inteligencia de Capacidad** (Agentes ReAct) y la **Integridad de Información** (Gobernanza Vectorial). Su arquitectura desacoplada, su resiliencia multi-modelo y su despliegue en la nube lo posicionan como una solución de grado empresarial lista para transformar documentos estáticos en activos de inteligencia estratégica.
 
 **"Portfolio-CORE: Connect. Certify. Chat."**
----
-<img width="947" height="665" alt="image" src="https://github.com/user-attachments/assets/487d4eb8-2f45-4ddf-b95a-b6fe71cd667c" />
 
+---
+
+<img width="947" height="665" alt="image" src="https://github.com/user-attachments/assets/487d4eb8-2f45-4ddf-b95a-b6fe71cd667c" />
+---
