@@ -80,11 +80,8 @@ graph TD
 ---
 # **3. Evidencia
 
-## ANEXO 1: Evidencia del lo desplegago
-
-<img width="947" height="665" alt="image" src="https://github.com/user-attachments/assets/487d4eb8-2f45-4ddf-b95a-b6fe71cd667c" />
 ---
-## ANEXO 2: Evidencia del MVP
+## ANEXO 1: Evidencia del MVP
 
 <img width="1161" height="590" alt="image" src="https://github.com/user-attachments/assets/19e87c15-49b9-418c-98d6-5b9a0944e7b0" />
 <img width="1153" height="784" alt="image" src="https://github.com/user-attachments/assets/934b36f7-17db-47a7-9229-656ad652e26d" />
