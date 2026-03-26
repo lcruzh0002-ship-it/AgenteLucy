@@ -1,0 +1,12 @@
+flask
+requests
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langgraph>=0.2.2
+gunicorn
+langchain
+langchain-openai
+langchain-community
+flask-cors
