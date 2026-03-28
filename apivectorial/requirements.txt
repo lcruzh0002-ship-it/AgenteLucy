@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymupdf
+python-docx
+openai
+elasticsearch==8.13.0
+mysql-connector-python==8.4.0
+google-api-python-client
+google-auth
+python-multipart
