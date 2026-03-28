@@ -128,7 +128,7 @@ graph LR
 
 ---
 
-## **6. RESUMEN TÉCNICO DE VALOR (Sustento para el Jurado)**
+## **6. RESUMEN TÉCNICO DE VALOR **
 1.  **Desacoplamiento:** Microservicios independientes. Si una API externa falla, el sistema sobrevive.
 2.  **Anti-Alucinación:** Gobernanza estricta. La IA no inventa; cita fuentes oficiales de la Capa 4.
 3.  **Resiliencia:** Arquitectura de fallbacks única en su clase (GPT/Claude/Gemini).
